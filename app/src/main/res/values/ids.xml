@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edt_nama" type="id" />
+    <item name="Radiogroup" type="id" />
+    <item name="btn_kurang" type="id" />
+    <item name="btn_pesan" type="id" />
+    <item name="btn_tambah" type="id" />
+    <item name="tv_jumlah" type="id" />
+    <item name="tv_harga_total" type="id" />
+    <item name="tv_harga_satuan" type="id" />
+</resources>
